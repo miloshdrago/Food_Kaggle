@@ -1,4 +1,4 @@
-# Food_Kaggle_UvA
+# Food Recognition Kaggle Competition
 
 The dataset consists of 30612 images for the training set and 7653 images for the test set.
 
